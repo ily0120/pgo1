@@ -5,5 +5,7 @@ public class Main {
         int b = 2;
         int c = 3;
         System.out.println(a+c);
+        System.out.println(b-c);
+        
     }
 }
